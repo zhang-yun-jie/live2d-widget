@@ -1,7 +1,7 @@
 #waifu-toggle {
 	background-color: #fa0;
 	border-radius: 5px;
-	bottom: 80px;
+	bottom: 6rem;
 	color: #fff;
 	cursor: pointer;
 	font-size: 12px;
@@ -25,7 +25,7 @@
 
 #waifu {
 	bottom: -1000px;
-	right: 15px;
+	right: 0.8rem;
 	line-height: 0;
 	margin-bottom: -10px;
 	position: fixed;
